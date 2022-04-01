@@ -1,6 +1,11 @@
 # Intune EJBCA Connector
+
 Intune EJBCA Connector is a SCEP server that supports request validation 
 through Microsoft Intune and certificate enrollment through EJBCA.
+
+## Caution
+
+**This project is not maintained now. EJBCA Enterprise officially supports Microsoft Intune. Please consider replacing with it - https://download.primekey.se/docs/EJBCA-Enterprise/latest/Microsoft_Intune_Device_Certificate_Enrollment.html**
 
 ## Requirements
 - EJBCA 6 (Developed with version 6.3.1.1)
